@@ -1,1 +1,1 @@
-"""policydiff baseline (single-responsibility pipeline)."""
+"""policydiff package (single-responsibility pipeline)."""
