@@ -1,0 +1,22 @@
+[
+  {
+    "doc_id": "caliber-a",
+    "region": "north",
+    "year": 2025,
+    "title": "口径差异-月",
+    "status": "active",
+    "clauses": [
+      {"number": "第一条", "text": "见习补贴期限为12个月，按月足额发放。"}
+    ]
+  },
+  {
+    "doc_id": "caliber-b",
+    "region": "south",
+    "year": 2025,
+    "title": "口径差异-年",
+    "status": "active",
+    "clauses": [
+      {"number": "第一条", "text": "见习补贴期限为1年，按月足额发放。"}
+    ]
+  }
+]

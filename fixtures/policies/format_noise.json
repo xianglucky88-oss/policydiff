@@ -1,0 +1,22 @@
+[
+  {
+    "doc_id": "noise-a",
+    "region": "demo",
+    "year": 2024,
+    "title": "排版噪声基线",
+    "status": "active",
+    "clauses": [
+      {"number": "第一条", "text": "人才补贴额度为3万元，应在30日内发放。"}
+    ]
+  },
+  {
+    "doc_id": "noise-b",
+    "region": "demo",
+    "year": 2025,
+    "title": "排版噪声对照（仅空白与全角标点差异）",
+    "status": "active",
+    "clauses": [
+      {"number": "第一条", "text": "  人才补贴额度为3万元，  应在30日内发放。 "}
+    ]
+  }
+]

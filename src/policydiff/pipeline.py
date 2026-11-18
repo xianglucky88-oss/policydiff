@@ -1,11 +1,11 @@
-"""薄编排：loader → normalize→doc_parse→align→version → keyer → store。不含业务判断。"""
+"""薄编排：loader → normalize→doc_parse→clause→align→version → keyer → store。不含业务判断。"""
 import importlib
 from . import store as _store
 from . import loader as _loader
 from .keyer import key_of
 from .models import Record
 
-CHAIN_NAMES = ['normalize', 'doc_parse', 'align', 'version']
+CHAIN_NAMES = ['normalize', 'doc_parse', 'clause', 'align', 'version']
 
 def run(con=None):
     own = con is None

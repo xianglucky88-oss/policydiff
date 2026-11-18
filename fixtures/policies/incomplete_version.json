@@ -1,0 +1,27 @@
+[
+  {
+    "doc_id": "hz-full-2024",
+    "region": "hangzhou",
+    "year": 2024,
+    "title": "完整基线版本",
+    "status": "active",
+    "clauses": [
+      {"number": "第一条", "text": "基础人才生活补贴为每人2万元。"},
+      {"number": "第二条", "text": "领军人才购房补贴为50万元。"},
+      {"number": "第三条", "text": "补贴发放期限为申请后60日。"}
+    ]
+  },
+  {
+    "doc_id": "hz-partial-2025",
+    "region": "hangzhou",
+    "year": 2025,
+    "title": "不完整汇编版本（节选）",
+    "status": "partial",
+    "missing_sections": ["第二章 购房补贴"],
+    "clauses": [
+      {"number": "第一条", "text": "基础人才生活补贴为每人3万元。"},
+      {"number": "缺失", "text": "缺"},
+      {"number": "第三条", "text": "补贴发放期限为申请后60日。"}
+    ]
+  }
+]
